@@ -1,0 +1,3 @@
+C:/Users/yutto/CLionProjects/Course_Manager/cmake-build-debug/CMakeFiles/Course_Manager.dir
+C:/Users/yutto/CLionProjects/Course_Manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yutto/CLionProjects/Course_Manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir

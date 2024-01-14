@@ -1,0 +1,10 @@
+# ninja log v5
+11	539	7269223826549122	CMakeFiles/Course_Manager.dir/Date.cpp.obj	cb258522f42597a8
+642	1165	7269223832869368	CMakeFiles/Course_Manager.dir/Time.cpp.obj	3dbda2c4dc960021
+626	1051	7269223831739108	CMakeFiles/Course_Manager.dir/Semester.cpp.obj	1bce003e03907d60
+0	626	7269223827439177	CMakeFiles/Course_Manager.dir/main.cpp.obj	6274f4cfba726e72
+8	774	7269223828759122	CMakeFiles/Course_Manager.dir/CourseSchedule.cpp.obj	7faac5b3e2eb30e5
+4	642	7269223827589119	CMakeFiles/Course_Manager.dir/Course.cpp.obj	ee8640ac5ee55618
+541	1037	7269223831579121	CMakeFiles/Course_Manager.dir/test4.cpp.obj	2f53ad153acacce4
+1	166	7269223938404951	build.ninja	c327a4268804684d
+3	150	7269223940754941	Course_Manager.exe	cb37a87af7d6b286
