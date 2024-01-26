@@ -16,7 +16,7 @@
 The Course Schedule Management System is a console-based application developed in C++. This system allows users to create, manage, and display course schedules within a semester. The program utilizes various classes to represent time, dates, semesters, courses, and the overall course schedule.
 
 ## 2. Classes
-### 2.1 Time Class(#time-class)
+### 2.1 Time Class
 Represents a specific time.
 - Attributes:
   - Hours
